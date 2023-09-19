@@ -1,4 +1,4 @@
-- 👋 Olá, sou Vitório, da @CVFVprogramacao, apaixonado por programação e tecnologia!
+- 👋 Olá, sou Vitório, da @CVFVprogramações, apaixonado por programação e tecnologia!
 - 👀 Estou interessado em desenvolver habilidades em diversas áreas da computação, como desenvolvimento web, inteligência artificial e ciência de dados.
 - 🌱 Atualmente estou aprendendo sobre algoritmos avançados e técnicas de otimização para aprimorar minhas habilidades de resolução de problemas.
 - 💞️ Procuro colaborar em projetos de código aberto e participar de iniciativas que tenham impacto positivo na comunidade.
